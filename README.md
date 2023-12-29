@@ -1,2 +1,2 @@
 # NagiGalleryImageUploader
-NagiGallery用画像アップローダー
+NagiGallery用画像アップローダーをつくるかーも
