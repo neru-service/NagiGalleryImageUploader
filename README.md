@@ -1,0 +1,2 @@
+# NagiGalleryImageUploader
+NagiGallery用画像アップローダー
